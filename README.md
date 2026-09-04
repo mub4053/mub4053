@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm MOHD MUBASHIR AHMED 👋
 ### Front-End Engineer · Turning "what if" into working software
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Architecting+interfaces+that+feel+inevitable;React+%2B+TypeScript+%2B+Tailwind+CSS;Fascinated+by+what+software+makes+possible;Always+learning.+Always+teaching." alt="Typing SVG" />
